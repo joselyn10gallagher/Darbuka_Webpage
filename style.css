@@ -87,7 +87,7 @@ p{
 .box4{background-image:url("images/wbackground.jpg");}
 /*Responsive Code: The layout will change where all the divs
   are stacked on top of each over with display:block. The height
-  and widths will change in order to adjust to the size screen*/
+  and widths will change in order for the divs to adjust to the size screen*/
 @media only screen and (max-width:700px){
 	.map{display:none;}
 	.small-row{height:15%;}
